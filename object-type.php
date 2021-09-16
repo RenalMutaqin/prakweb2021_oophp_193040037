@@ -48,7 +48,6 @@ echo "<br>";
 
 $infoproduk1 = new cetakinfoproduk();
 echo $infoproduk1->cetak($produk1);
-echo"<hr>";
 
 
 ?>
