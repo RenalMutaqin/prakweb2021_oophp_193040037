@@ -12,7 +12,8 @@ class Produk {
             $penerbit,
             $harga,
             $jmlHalaman,
-            $waktumain;
+            $waktumain,
+            $tipe;
 
             public function __construct( $judul = "judul", $penulis = "penulis", $penerbit = "penerbit", $harga = 0, $jmlHalaman = 0, $waktumain = 0, $tipe)
             {
